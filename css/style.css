@@ -1,0 +1,173 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+/* inicio del header */
+.color-fondo-gris {
+    background-color: #343a40 !important;
+}
+
+.links-menu-head {
+    text-decoration: none;
+    color: #9b9ba3;
+    font-size: 20px;
+}
+
+.links-menu-head:hover,
+a {
+    color: white;
+}
+
+
+
+.logo {
+    text-decoration: none;
+    margin-left: 100px;
+
+}
+
+/* fin del header */
+
+/* Seccion colores: Colores que estan repartidos a lo largo de todo el codigo  */
+
+.bg-verde {
+    background-color: #96c93e !important;
+}
+
+.color-plata {
+    color: #9b9ba3;
+}
+
+.color-verde {
+    color: #28a645;
+}
+
+.color-blanco {
+    color: white !important;
+}
+
+/* Fin de la seccion colores  */
+
+
+/* inicio del carrusel */
+.Primer-carrusel {
+    background-color: #000000;
+
+}
+
+/* texto del carrusel*/
+.texto {
+    width: auto;
+    top: 440px;
+    left: 70px;
+    font-size: 25px;
+    color: white;
+    /* Color del texto */
+    margin-right: 250px;
+    /* Espaciado externo derecho */
+    margin-left: 750px;
+    /* Espaciado externo izquierdo */
+
+}
+.boton-tamaño {
+    font-size: 20px !important;
+
+}
+
+.fnd{
+    background-color: rgba(163, 163, 163, 0.574) !important;
+    border-radius: 10px !important;
+    
+    ; /* Alto del círculo */
+}
+
+.espacio-texto{
+    margin-right: 150px !important;
+}
+/* fin del carrusel  */
+
+
+/* inicio de la sección de los oradores */
+
+.espacio-botones
+
+/* botones de las cars de los oradores */
+    {
+    margin-top: 10px;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    font-size: 13px !important;
+}
+
+/* fin de la seccion de oradores  */
+
+/* inicio de la seccion de la playa   */
+
+.Playa {
+    margin-top: 25px;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-bottom: 25px;
+}
+
+.espacio {
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+/* fin de la seccion playa  */
+
+
+/* inicio del formulario */
+
+.linea-punteada {
+    text-decoration: 1px rgb(0, 0, 0) underline dotted;
+
+}
+
+/* fin de la del formulario  */
+
+
+/* inicio del footer  */
+.pie {
+    background-image: linear-gradient(to right, #0b1c25, #1d5271);
+    padding: 50px;
+}
+
+.links-menu-pie {
+    text-decoration: none;
+    color: white;
+}
+
+.links-menu-pie>* {
+    padding: 10px;
+}
+
+.links-menu-pie-hover:hover {
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+
+}
+
+/* INICIO DE COMPRA TICKETS */
+
+.DescuentoEstudiante{
+    border: 1px solid #007bff;
+}
+.DescuentoTrainee{
+    border: 1px solid #17a2b8;
+}
+.DescuentoJunior{
+    border: 1px solid #ffc107;
+}
+
+.alertaPaga{
+    color: #b1d5fd ;
+}
